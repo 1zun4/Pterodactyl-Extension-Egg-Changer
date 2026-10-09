@@ -1,0 +1,31 @@
+{
+    "$schema": "./node_modules/@pterodactyl/sdk/manifest.schema.json",
+    "id": "egg-changer",
+    "name": "Egg Changer",
+    "version": "1.0.0",
+    "requires": {
+        "panel": "^2.0.0-dev",
+        "sdk": "^2.0.0-beta.4",
+        "php": "^8.3"
+    },
+    "description": "Let users switch their server to another egg you allow.",
+    "author": "Izuna Seikatsu",
+    "provider": "EggChanger\\EggChangerProvider",
+    "ui": {
+        "entry": "dist/client.js",
+        "mode": "native",
+        "prefix": "egc",
+        "screens": [
+            {
+                "id": "groups",
+                "area": "admin",
+                "path": "egg-changer",
+                "nav": {
+                    "label": "Egg Changer",
+                    "icon": "egg"
+                }
+            }
+        ]
+    },
+    "icon": "egg"
+}

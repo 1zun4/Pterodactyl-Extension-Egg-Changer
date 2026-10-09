@@ -1,0 +1,11 @@
+{
+    "description": "Let users switch their server to another egg you allow.",
+    "autoload": {
+        "psr-4": {
+            "EggChanger\\": "src/"
+        }
+    },
+    "config": {
+        "autoloader-suffix": "EggChangerExtension"
+    }
+}
