@@ -1,9 +1,9 @@
 # Egg Changer for Pterodactyl
 
-[![Release](https://img.shields.io/github/v/release/1zun4/Pterodactyl-Extension-Egg-Changer?style=flat-square)](https://github.com/1zun4/Pterodactyl-Extension-Egg-Changer/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/1zun4/Pterodactyl-Extension-Egg-Changer/total?style=flat-square)](https://github.com/1zun4/Pterodactyl-Extension-Egg-Changer/releases)
+[![Release](https://img.shields.io/github/v/release/CCBlueX/Pterodactyl-Extension-Egg-Changer?style=flat-square)](https://github.com/CCBlueX/Pterodactyl-Extension-Egg-Changer/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/CCBlueX/Pterodactyl-Extension-Egg-Changer/total?style=flat-square)](https://github.com/CCBlueX/Pterodactyl-Extension-Egg-Changer/releases)
 [![Pterodactyl](https://img.shields.io/badge/Pterodactyl-2.0-0e4688?style=flat-square)](https://pterodactyl.io)
-[![License](https://img.shields.io/github/license/1zun4/Pterodactyl-Extension-Egg-Changer?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/github/license/CCBlueX/Pterodactyl-Extension-Egg-Changer?style=flat-square)](LICENSE)
 
 Let users switch their server to another egg you allow, right from the Startup page.
 
@@ -11,7 +11,7 @@ Let users switch their server to another egg you allow, right from the Startup p
 
 ## Install
 
-1. Download `egg-changer-<version>.pteroext` from the [latest release](https://github.com/1zun4/Pterodactyl-Extension-Egg-Changer/releases/latest).
+1. Download `egg-changer-<version>.pteroext` from the [latest release](https://github.com/CCBlueX/Pterodactyl-Extension-Egg-Changer/releases/latest).
 2. Open **Admin → Extensions**, click **Install** and pick the file.
 3. Enable it, then create a group under **Admin → Egg Changer**.
 
